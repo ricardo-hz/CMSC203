@@ -3,7 +3,7 @@
 * Instructor: Ahmed Tarek
 * Description: This program greets the user, generates a random color, and prompts the user
 * to guess that random number
-* Due: MM/DD/YYYY
+* Due: 09/11/2023
  * Platform/compiler: Linux Mint IntelliJ Idea Community Edition
  * I pledge that I have completed the programming assignment
 * independently. I have not copied the code from a student or   * any source. I have not given my code to any student.
@@ -112,7 +112,6 @@ public class Main {
         System.out.println("User Details: " + USER_DETAILS);
         //display dueDate
         System.out.println("Due Date: " + DUE_DATE);
-        //Dont forget to system exit
         System.exit(0);
     }
 }
